@@ -1,0 +1,4 @@
+<launch>  
+<node name="turtlesim_node" pkg="turtlesim" type="turtlesim_node" />
+<node name="mines_quintana_dominic" pkg="mines_quintana_dominic" type="mines_quintana_dominic" output="screen" />
+</launch>

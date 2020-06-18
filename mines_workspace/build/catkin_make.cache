@@ -1,0 +1,2 @@
+mines_quintana_dominic
+-DCATKIN_DEVEL_PREFIX=/home/domq/mines_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/domq/mines_workspace/install -G Unix Makefiles

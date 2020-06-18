@@ -1,0 +1,8 @@
+prefix=/home/domq/mines_workspace/install
+
+Name: mines_quintana_dominic
+Description: Description of mines_quintana_dominic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
